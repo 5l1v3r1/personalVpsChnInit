@@ -1,0 +1,200 @@
+--------------------------------info[11:39:25]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[11:39:25]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[11:39:26]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[11:39:26]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[11:39:26]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[11:39:26]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver Stop 192.168.0.104
+
+ 
+--------------------------------The I/O operation has been aborted because of either a thread exit or an application request[21:56:46]--------------------------------
+System.Net.HttpListenerException (0x80004005): The I/O operation has been aborted because of either a thread exit or an application request
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[21:56:46]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[21:56:46]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[21:57:37]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[21:57:37]--------------------------------
+System.Exception: Webserver Stop 192.168.0.104
+
+ 
+--------------------------------info[21:57:37]--------------------------------
+System.Exception: Webserver Stop 无法访问已释放的对象。
+对象名:“System.Net.HttpListener”。
+
+ 
+--------------------------------info[22:00:16]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[22:00:17]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[22:00:17]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[22:00:17]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[22:00:17]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[22:00:17]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[22:00:58]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[22:00:58]--------------------------------
+System.Exception: Webserver Stop 192.168.0.104
+
+ 
+--------------------------------The I/O operation has been aborted because of either a thread exit or an application request[22:00:58]--------------------------------
+System.Net.HttpListenerException (0x80004005): The I/O operation has been aborted because of either a thread exit or an application request
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[22:03:20]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[22:03:20]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[22:03:20]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[22:03:20]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[22:03:20]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[22:03:20]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[22:04:22]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[22:04:22]--------------------------------
+System.Exception: Webserver Stop 192.168.0.104
+
+ 
+--------------------------------The I/O operation has been aborted because of either a thread exit or an application request[22:04:22]--------------------------------
+System.Net.HttpListenerException (0x80004005): The I/O operation has been aborted because of either a thread exit or an application request
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[22:04:22]--------------------------------
+System.Exception: Webserver Stop 无法访问已释放的对象。
+对象名:“System.Net.HttpListener”。
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver Stop 192.168.0.104
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver Stop 无法访问已释放的对象。
+对象名:“System.Net.HttpListener”。
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[22:05:08]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[22:05:08]--------------------------------
+System.Exception: Webserver running...
+
+ 

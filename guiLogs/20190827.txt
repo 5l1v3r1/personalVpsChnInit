@@ -1,0 +1,54 @@
+--------------------------------info[07:25:38]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[07:25:39]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[07:25:39]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:25:39]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[07:25:39]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[07:25:39]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[10:21:03]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[10:21:04]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[10:21:04]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[10:21:04]--------------------------------
+System.Exception: Webserver prefixes http://192.168.0.104:1082/pac/
+
+ 
+--------------------------------Access is denied[10:21:04]--------------------------------
+System.Net.HttpListenerException (0x80004005): Access is denied
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.HttpProxyHandler.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[10:21:04]--------------------------------
+System.Exception: Webserver running...
+
+ 

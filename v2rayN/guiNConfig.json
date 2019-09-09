@@ -1,0 +1,57 @@
+{
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 0,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "45.76.57.93",
+      "port": 53554,
+      "id": "6de95211-ac10-4dcd-88fd-422b330cd38b",
+      "alterId": 233,
+      "security": "auto",
+      "network": "kcp",
+      "remarks": "",
+      "headerType": "wechat-video",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 1,
+      "testResult": "234ms",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "domainStrategy": "IPIfNonMatch",
+  "routingMode": "0",
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "sysAgentEnabled": true,
+  "listenerType": 2,
+  "urlGFWList": null,
+  "allowLANConn": false,
+  "remoteDNS": null,
+  "subItem": null,
+  "uiItem": {
+    "mainQRCodeWidth": 600
+  }
+}
