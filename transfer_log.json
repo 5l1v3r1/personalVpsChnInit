@@ -1,6 +1,10 @@
 {
 	"185.145.98.191" : {
-		"totalUploadBytes" : 6831601788,
-		"totalDownloadBytes" : 60874421807
+		"totalUploadBytes" : 6832412839,
+		"totalDownloadBytes" : 60886083009
+	},
+	"45.32.201.242" : {
+		"totalUploadBytes" : 102446,
+		"totalDownloadBytes" : 246920
 	}
 }
