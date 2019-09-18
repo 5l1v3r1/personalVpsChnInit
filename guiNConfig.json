@@ -13,20 +13,20 @@
   "vmess": [
     {
       "configVersion": 2,
-      "address": "185.145.98.191",
-      "port": 53583,
-      "id": "05583e50-8d0a-11e9-87ad-fa163ef603f0",
-      "alterId": 16,
+      "address": "45.32.201.242",
+      "port": 50705,
+      "id": "cbaa948f-4c47-4456-9bb2-7e3127db1e91",
+      "alterId": 233,
       "security": "auto",
       "network": "kcp",
       "remarks": "",
-      "headerType": "dtls",
+      "headerType": "utp",
       "requestHost": "",
       "path": "",
-      "streamSecurity": "none",
+      "streamSecurity": "",
       "allowInsecure": "",
       "configType": 1,
-      "testResult": "241ms",
+      "testResult": "",
       "subid": ""
     }
   ],
@@ -210,7 +210,7 @@
     "writeBufferSize": 2
   },
   "sysAgentEnabled": true,
-  "listenerType": 2,
+  "listenerType": 1,
   "urlGFWList": "",
   "allowLANConn": true,
   "remoteDNS": "",

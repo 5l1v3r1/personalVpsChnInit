@@ -32,12 +32,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "185.145.98.191",
-            "port": 53583,
+            "address": "45.32.201.242",
+            "port": 50705,
             "users": [
               {
-                "id": "05583e50-8d0a-11e9-87ad-fa163ef603f0",
-                "alterId": 16,
+                "id": "cbaa948f-4c47-4456-9bb2-7e3127db1e91",
+                "alterId": 233,
                 "email": "t@t.tt",
                 "security": "auto"
               }
@@ -49,7 +49,7 @@
       },
       "streamSettings": {
         "network": "kcp",
-        "security": "none",
+        "security": "",
         "tlsSettings": null,
         "tcpSettings": null,
         "kcpSettings": {
@@ -61,7 +61,7 @@
           "readBufferSize": 2,
           "writeBufferSize": 2,
           "header": {
-            "type": "dtls",
+            "type": "utp",
             "request": null,
             "response": null
           }
